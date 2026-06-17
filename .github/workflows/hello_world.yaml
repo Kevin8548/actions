@@ -4,6 +4,6 @@ jobs:
   hello-world-actions: 
     runs-on: ubuntu-latest
       steps:
-          - run: echo "Hello World!!!!"
-          - run: echo "Ando probando actions XD"
-          - run: echo "Siiuuuu🚀"
+        - run: echo "Hello World!!!!"
+        - run: echo "Ando probando actions XD"
+        - run: echo "Siiuuuu🚀"
