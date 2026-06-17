@@ -1,4 +1,4 @@
-name : Hello World Actions
+name: Hello World Actions
 on: [push]
 jobs:
   hello-world-actions: 
