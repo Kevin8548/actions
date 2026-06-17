@@ -7,7 +7,7 @@ def main():
         print("XD" * i)
 
     name = os.getenv('USERNAME')
-    print(f"Hola (name)")
+    print(f"Hola {name}")
 
 
 if __name__ == "__main__":
