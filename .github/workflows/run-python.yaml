@@ -15,9 +15,6 @@ jobs:
         - name: Ejecuta Script
           run: python app.py
 
-name: Run JavaScript Script
-on: [push]
-jobs:
     runs-javascript-script:
       runs-on: ubuntu-latest
       steps:
